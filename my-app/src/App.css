@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #F4F7FD;
+}
+
+.plus{
+  cursor: pointer;
+}
+.plus:hover{
+  scale: 0.8;
+}
